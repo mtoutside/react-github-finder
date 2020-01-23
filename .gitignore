@@ -223,3 +223,6 @@ tags
 [._]*.un~
 
 
+
+# Local Netlify folder
+.netlify

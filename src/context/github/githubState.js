@@ -90,4 +90,4 @@ const GithubState = props => {
   </GithubContext.Provider>
 }
 
-eGET_TRACKS_ANALYSISxport default GithubState;
+export default GithubState;
